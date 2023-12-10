@@ -33,7 +33,7 @@ Mobile Preview
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [monash-stats-preview-card-component](https://monash-stats-preview-card-component.netlify.app/)
 
 ## My process
 
