@@ -122,6 +122,7 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .card-info p {
+    color: var(--transparent-white-1);
     font-family: var(--font-type-inter);
 }
 
@@ -134,6 +135,7 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .card-stat-info > span:last-child {
     display: block;
+    color: var(--transparent-white-2);
     font-family: var(--font-type-lexend);
     font-weight: var(--fw-regular);
     text-transform: uppercase;
